@@ -8,6 +8,7 @@ public class Sampledemo {
 	public void demo()
 	{
 		System.out.println("grey");
+		System.out.println("black");
 	}
 	
 	
