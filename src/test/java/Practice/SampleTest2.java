@@ -8,6 +8,7 @@ public class SampleTest2 {
 	public void demo2()
 	{
 		System.out.println("demo- new created");
+		System.out.println("demo");
 	}
 
 }
