@@ -9,6 +9,7 @@ public class Sampledemo {
 	{
 		System.out.println("grey");
 		System.out.println("black");
+		System.out.println("hi");
 	}
 	
 	
